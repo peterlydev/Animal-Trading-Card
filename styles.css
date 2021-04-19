@@ -1,0 +1,59 @@
+
+h3{
+    margin: 0px 0;
+    border: 1px;
+    padding: 1px;
+}
+
+img{
+    border: 1px solid lightgray;
+    width: 300px;
+    height: 200px;
+    padding: 0px;
+    margin: 0px 0;
+}
+
+span{
+    font-weight:bold;
+}
+
+ul {
+    font: 12px serif;
+    list-style: none;
+    border:1px black;
+    padding: 10px; 
+    margin: -10px 0;
+}
+
+.container{
+    border: 1px ridge lightgray;
+    box-shadow: 5px 5px lightgray;
+    padding: 10px;
+    width: 300px;
+    height: 460px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fact {
+    margin: 10px; 
+    padding: 1px;
+    font: italic 12px / 15px serif;
+}
+
+.box {
+    border: 0.1px solid lightgray;
+    margin: -10px 0;
+    width: 300px;
+    height: 200px;
+    display:flex;
+    flex-wrap: wrap;
+    float:center;
+}
+
+
+.description { 
+    margin: -10px 0;
+    padding: 10px;
+    font: 12px serif;
+}
